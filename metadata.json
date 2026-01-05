@@ -1,0 +1,7 @@
+{
+  "name": "O Império Digital",
+  "description": "A comprehensive super-platform connecting individuals and companies in Mozambique, facilitating micro-tasks, service delivery, and a robust digital economy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
